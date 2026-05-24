@@ -7,7 +7,7 @@ We design software that connects people, improves operations, and makes data eas
 `focus:`
 
 - business software and operational tools
-- systems integration
+- systems integration and APIs
 - health and laboratory information systems
 - data platforms, dashboards, and workflow automation
 - cloud, containerization, and deployment support
