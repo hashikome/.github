@@ -21,5 +21,5 @@ We design software that connects people, improves operations, and makes data eas
 
 `contact:`
 
-**Email:** hello@namestarlit.com  
+**Email:** hello@hashikome.com  
 **GitHub:** [@hashikome](https://github.com/hashikome)
