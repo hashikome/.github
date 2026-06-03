@@ -14,25 +14,11 @@
 
 Build useful, maintainable software products that connect and empower people.
 
-`what_we_build:`
+`company:`
 
-| Area | Focus |
-| --- | --- |
-| **Software products** | SaaS-first products built around practical workflows, reliable information, and everyday operational needs. |
-| **Custom systems** | Contract software for teams, institutions, companies, approvals, reporting, and day-to-day coordination. |
-| **Systems integration** | APIs, service connections, data exchange, and workflow automation for existing operations. |
-| **Health and laboratory systems** | Practical platforms for clinical, laboratory, and information-management workflows. |
-| **Data platforms** | Dashboards, reporting layers, structured datasets, and decision-support tools. |
-| **Cloud and deployment** | Containerized services, deployment pipelines, server setup, and operational support. |
+HASHIKOME is a software company focused on building practical software products. We think product-first, with SaaS as the main direction, and we use focused contract work to build strong custom systems for teams, institutions, and companies when the problem is worth solving.
 
-`principles:`
-
-| Principle | What it means |
-| --- | --- |
-| **Clarity** | Solve the real problem directly. |
-| **Reliability** | Support daily operational use. |
-| **Interoperability** | Help systems communicate cleanly. |
-| **Sustainability** | Build for maintenance, growth, and long-term ownership. |
+Our work is guided by clarity, reliability, interoperability, and sustainability. We aim to solve the real problem directly, support daily operational use, help systems communicate cleanly, and build software that can be maintained, improved, and owned over time.
 
 `profile:`
 
