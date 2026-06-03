@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Software products that connect and empower.</strong>
+  <strong>SOFTWARE PRODUCTS THAT CONNECT AND EMPOWER.</strong>
 </p>
 
 ---
