@@ -19,7 +19,6 @@ name: HASHIKOME
 located_in: Tanzania
 work: SaaS products, custom software systems, integrations, and data workflows
 mission: Connect and empower people through maintainable software products
-contact: hello@hashikome.com
 ```
 
 `connect:`
