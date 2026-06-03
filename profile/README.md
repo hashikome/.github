@@ -21,6 +21,8 @@ work: SaaS products, custom software systems, integrations, and data workflows
 mission: Connect and empower people through maintainable software products
 ```
 
+<!-- Future: add a products section here when HASHIKOME is ready to showcase active SaaS products. Keep the profile lean until then. -->
+
 `connect:`
 
 **Email:** [hello@hashikome.com](mailto:hello@hashikome.com)
