@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hashikome_background.png" alt="HASHIKOME" width="100%" />
+  <img src="./assets/hashikome_background.webp" alt="HASHIKOME" width="100%" />
 </p>
 
 <p align="center">
