@@ -6,7 +6,6 @@
   <strong>SOFTWARE PRODUCTS THAT CONNECT AND EMPOWER.</strong>
 </p>
 
----
 
 HASHIKOME is a software company focused on building practical software products. We think product-first, with SaaS as the main direction, and we use focused contract work to build strong custom systems for teams, institutions, and companies when the problem is worth solving.
 
