@@ -20,7 +20,10 @@ work: SaaS products, custom software systems, integrations, and data workflows
 mission: Connect and empower people through maintainable software products
 ```
 
-<!-- Future: add a products section here when HASHIKOME is ready to showcase active SaaS products. Keep the profile lean until then. -->
+## Products
+
+[**LinkHub**](https://github.com/hashikome/linkhub) — Good links belong together.
+Save, organize, and share web resources in curated collections. **In development.**
 
 `connect:`
 
