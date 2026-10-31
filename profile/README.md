@@ -20,11 +20,6 @@ work: SaaS products, custom software systems, integrations, and data workflows
 mission: Connect and empower people through maintainable software products
 ```
 
-## Products
-
-[**LinkHub**](https://github.com/hashikome/linkhub) — Good links belong together.
-Save, organize, and share web resources in curated collections. **In development.**
-
 `connect:`
 
 **Email:** [hello@hashikome.com](mailto:hello@hashikome.com)
