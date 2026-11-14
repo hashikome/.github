@@ -1,5 +1,3 @@
-`profile:`
-
 ```yaml
 name: Shikome Technology
 located_in: Tanzania
