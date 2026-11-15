@@ -1,6 +1,6 @@
 ```yaml
-name: Shikome Technology
-located_in: Tanzania
-work: SaaS products, custom software systems, integrations, and data workflows
+company: Shikome Technology Limited
+located_in: Dar es Salaam, Tanzania
+work: Technology consulting, solutions engineering, and software products
 mission: To create solutions that connect and empower people.
 ```
